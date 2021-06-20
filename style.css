@@ -1,0 +1,8 @@
+
+body {
+    background: url("bel.jpg") right top /
+    80% no-repeat , url("belalbu.png")left top/ 17% no-repeat fixed;
+    background-color: #838383;
+   
+
+}
