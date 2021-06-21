@@ -1,8 +1,26 @@
 
 body {
     background: url("bel.jpg") right top /
-    80% no-repeat , url("belalbu.png")left top/ 17% no-repeat fixed;
+    83% no-repeat , url("belalbu.png")left top/ 17% no-repeat fixed;
     background-color: #838383;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 150%;
+    color: rgb(46, 45, 45);
+}
+div{
+    border: 
    
-
+}   
+.vazio{
+    padding: 23%;
+    }
+.text{
+     
+      background-color: rgb(107, 107, 107);
+      margin: 0 16%;
+      width:84%;
+}
+   
+h3 {
+    font-size: 140%;
 }
