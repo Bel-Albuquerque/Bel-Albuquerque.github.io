@@ -1,0 +1,23 @@
+body{
+    font-family: roboto, sans-serif;
+    background-color:  #838383;;
+}
+#cabeçario{
+    background-color: #838383;;
+    margin: 0mm;
+    padding: 25px;
+    position: top; 
+}
+#fotobel{
+    position: absolute;
+    min-width:30%;
+    right: 11.5%;
+    display: block;
+}
+#info{
+}
+.head{
+    position: absolute;
+    vertical-align: auto;
+
+}
